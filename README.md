@@ -7,7 +7,7 @@ An example of an application on Next.js using headless Wordpress and GraphQL.
 ### Nextjs  
 <a href="https://nextjs.org/docs/basic-features/pages" terget="_blank">https://nextjs.org/docs/basic-features/pages</a>  
 
-### WPGraphQL (Plugin)
+### WPGraphQL (Wordpress Plugin)
 <a href="https://www.wpgraphql.com/docs/introduction/" terget="_blank">https://www.wpgraphql.com/docs/introduction/</a>  
 
 
