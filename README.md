@@ -1,5 +1,5 @@
-# wp-nextjs-test
-An example of an application on Next.js using headless Wordpress
+# Nextjs + WordPress + GraphQL
+An example of an application on Next.js using headless Wordpress and GraphQL.
 
 
 # Documentation
@@ -44,5 +44,4 @@ An example of an application on Next.js using headless Wordpress
 
 ### Crash Course: Headless WordPress with WPGraphQL, ACF, and React
 <a href="https://www.youtube.com/watch?v=9KGuI0UmpMw&ab_channel=WPCasts" terget="_blank">https://www.youtube.com/watch?v=9KGuI0UmpMw&ab_channel=WPCasts</a>   
-https://www.youtube.com/watch?v=9KGuI0UmpMw&ab_channel=WPCasts
 
