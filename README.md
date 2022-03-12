@@ -1,4 +1,4 @@
-# Nextjs + WordPress + GraphQL
+# Nextjs + WordPress + REST API + GraphQL API
 An example of an application on Next.js using headless Wordpress and GraphQL.
 
 
