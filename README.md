@@ -2,7 +2,7 @@
 An example of an application on Next.js using headless Wordpress and GraphQL.
 
 
-# Documentation
+## Documentation
 
 - Nextjs  
 <a href="https://nextjs.org/docs/basic-features/pages" terget="_blank">https://nextjs.org/docs/basic-features/pages</a>  
@@ -11,7 +11,22 @@ An example of an application on Next.js using headless Wordpress and GraphQL.
 <a href="https://www.wpgraphql.com/docs/introduction/" terget="_blank">https://www.wpgraphql.com/docs/introduction/</a>  
 
 
-# Articles
+## Articles
+
+### REST API
+
+- REST API
+<a href="https://wp-kama.ru/handbook/rest" terget="_blank">https://wp-kama.ru/handbook/rest</a> 
+
+-  WP REST API
+<a href="https://cmscafe.ru/docs/wordpress/rest-api" terget="_blank">https://cmscafe.ru/docs/wordpress/rest-api</a> 
+
+- Headless WordPress + Next.js — What We Learned
+<a href="https://medium.com/kata-engineering/headless-wordpress-next-js-what-we-learned-c10abdf80f6a" terget="_blank">https://medium.com/kata-engineering/headless-wordpress-next-js-what-we-learned-c10abdf80f6a</a> 
+
+
+
+### GraphQL
 
 - Building Static Sites with WordPress and Next.js Series' Articles   
 <a href="https://dev.to/kendalmintcode/series/8688" terget="_blank">https://dev.to/kendalmintcode/series/8688</a> 
@@ -31,8 +46,13 @@ An example of an application on Next.js using headless Wordpress and GraphQL.
 - A statically generated blog example using Next.js and WordPress
 <a href="https://github.com/vercel/next.js/tree/canary/examples/cms-wordpress" terget="_blank">https://github.com/vercel/next.js/tree/canary/examples/cms-wordpress</a>  
 
-# Video
+## Video
 
+### REST API
+- REST API в WordPress  
+<a href="https://vimeo.com/238076700" terget="_blank">https://vimeo.com/238076700</a> 
+
+### GraphQL
 - Next.js with Headless WordPress - GraphQL Queries with WPGraphQL & Deploy to Netlify  
 <a href="https://www.youtube.com/watch?v=X8fY011u0tE&ab_channel=ColbyFayock" terget="_blank">https://www.youtube.com/watch?v=X8fY011u0tE&ab_channel=ColbyFayock</a>     
 
