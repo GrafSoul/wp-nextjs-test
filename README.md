@@ -75,3 +75,9 @@ An example of an application on Next.js using headless Wordpress and GraphQL.
 - Crash Course: Headless WordPress with WPGraphQL, ACF, and React   
 <a href="https://www.youtube.com/watch?v=9KGuI0UmpMw&ab_channel=WPCasts" terget="_blank">https://www.youtube.com/watch?v=9KGuI0UmpMw&ab_channel=WPCasts</a>   
 
+
+### Paid course (GraphQL & REST API)
+WordPress as a Headless Content Management System (CMS) and GraphQL API   
+<a href="https://egghead.io/courses/headless-wordpress-4a14" terget="_blank">https://egghead.io/courses/headless-wordpress-4a14</a>   
+
+© 2022
