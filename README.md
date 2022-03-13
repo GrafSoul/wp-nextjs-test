@@ -27,6 +27,9 @@ An example of an application on Next.js using headless Wordpress and GraphQL.
 - Headless WordPress + Next.js — What We Learned    
 <a href="https://medium.com/kata-engineering/headless-wordpress-next-js-what-we-learned-c10abdf80f6a" terget="_blank">https://medium.com/kata-engineering/headless-wordpress-next-js-what-we-learned-c10abdf80f6a</a> 
 
+- Using WordPress as a Headless CMS with React/Next.js      
+<a href="https://medium.com/geekculture/using-wordpress-as-a-headless-cms-with-react-next-js-c9b97bfc9ce2" terget="_blank">https://medium.com/geekculture/using-wordpress-as-a-headless-cms-with-react-next-js-c9b97bfc9ce2</a>  
+
 - Using NextJS With Wordpress Headless CMS       
 <a href="https://academind.com/tutorials/nextjs-wordpress-headless-cms" terget="_blank">https://academind.com/tutorials/nextjs-wordpress-headless-cms</a> 
 
@@ -41,9 +44,6 @@ An example of an application on Next.js using headless Wordpress and GraphQL.
 
 - How to Create a Headless CMS Website using WordPress, Next.js, and GraphQL Queries (WPGraphQL)     
 <a href="https://www.section.io/engineering-education/create-a-headless-cms-website-using-wordpress-nextjs-and-graphql/" terget="_blank">https://www.section.io/engineering-education/create-a-headless-cms-website-using-wordpress-nextjs-and-graphql/</a>  
-
-- Using WordPress as a Headless CMS with React/Next.js      
-<a href="https://medium.com/geekculture/using-wordpress-as-a-headless-cms-with-react-next-js-c9b97bfc9ce2" terget="_blank">https://medium.com/geekculture/using-wordpress-as-a-headless-cms-with-react-next-js-c9b97bfc9ce2</a>  
 
 - A statically generated blog example using Next.js and WordPress    
 <a href="https://github.com/vercel/next.js/tree/canary/examples/cms-wordpress" terget="_blank">https://github.com/vercel/next.js/tree/canary/examples/cms-wordpress</a>  
