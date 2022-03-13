@@ -55,7 +55,7 @@ An example of an application on Next.js using headless Wordpress and GraphQL.
 <a href="https://vimeo.com/238076700" terget="_blank">https://vimeo.com/238076700</a> 
 
 ### GraphQL
-Use WordPress with Next.JS (Course) 
+- Use WordPress with Next.JS (Course)    
 <a href="https://www.learnwithjason.dev/use-wordpress-with-next-js" terget="_blank">https://www.learnwithjason.dev/use-wordpress-with-next-js</a>
  
 - NextJS and WordPress Headless CMS Crash Course    
