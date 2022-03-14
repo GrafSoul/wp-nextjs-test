@@ -30,6 +30,23 @@ export default function Post({ postData }) {
       </Head>
 
       <main className={styles.main}>
+        <ul>
+          <li>
+            <Link href="/">
+              <a>Home</a>
+            </Link>
+          </li>
+          <li>
+            <Link href="/blog">
+              <a>Blog</a>
+            </Link>
+          </li>
+          <li>
+            <Link href="/contact">
+              <a>Contact</a>
+            </Link>
+          </li>
+        </ul>
         {router.isFallback ? (
           <h2>Loading...</h2>
         ) : (

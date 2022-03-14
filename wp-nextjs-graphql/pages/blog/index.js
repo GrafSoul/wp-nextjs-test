@@ -26,7 +26,25 @@ const Blog = ({ allPosts: { edges } }) => (
 
     <main className={styles.main}>
       <h1 className={styles.title}>Latest blog articles</h1>
+
       <hr />
+      <ul>
+        <li>
+          <Link href="/">
+            <a>Home</a>
+          </Link>
+        </li>
+        <li>
+          <Link href="/blog">
+            <a>Blog</a>
+          </Link>
+        </li>
+        <li>
+          <Link href="/contact">
+            <a>Contact</a>
+          </Link>
+        </li>
+      </ul>
       <section>
         {edges.map(({ node }) => (
           <div className={blogStyles.listitem} key={node.id}>

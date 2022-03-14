@@ -19,9 +19,23 @@ export default function Home() {
 
         <p>
           You can find more articles on the{" "}
-          <Link href="/blog">
-            <a>blog articles page</a>
-          </Link>
+          <ul>
+            <li>
+              <Link href="/">
+                <a>Home</a>
+              </Link>
+            </li>
+            <li>
+              <Link href="/blog">
+                <a>Blog</a>
+              </Link>
+            </li>
+            <li>
+              <Link href="/contact">
+                <a>Contact</a>
+              </Link>
+            </li>
+          </ul>
         </p>
       </main>
 
