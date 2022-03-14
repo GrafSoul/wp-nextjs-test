@@ -2,9 +2,9 @@ import Image from "next/image";
 
 export default function Avatar({ author }) {
   const name = author
-    ? author.firstName && author.lastName
-      ? `${author.firstName} ${author.lastName}`
-      : author.name
+    ? author.node.firstName && author.node.lastName
+      ? `${author.node.firstName} ${author.node.lastName}`
+      : author.node.name
     : null;
 
   return (

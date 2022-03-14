@@ -113,12 +113,14 @@ export async function getPostAndMorePosts(slug, preview, previewData) {
   const data = await fetchAPI(
     `
     fragment AuthorFields on User {
-      name
-      firstName
-      lastName
-      avatar {
-        url
-      }
+      node {
+        name
+        firstName
+        lastName
+        avatar {
+          url
+        }
+      }      
     }
     fragment PostFields on Post {
       title
@@ -126,7 +128,9 @@ export async function getPostAndMorePosts(slug, preview, previewData) {
       slug
       date
       featuredImage {
-        sourceUrl
+        node {
+          sourceUrl
+        }
       }
       author {
         ...AuthorFields
