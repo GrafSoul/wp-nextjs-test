@@ -32,6 +32,10 @@ An example of an application on Next.js using headless Wordpress and GraphQL.
 - Using NextJS With Wordpress Headless CMS  
   <a href="https://academind.com/tutorials/nextjs-wordpress-headless-cms" target="_blank">https://academind.com/tutorials/nextjs-wordpress-headless-cms</a>
 
+- WooCommerce REST API  
+  <a href="https://woocommerce.com/document/woocommerce-rest-api/" target="_blank">https://woocommerce.com/document/woocommerce-rest-api/</a>  
+  <a href="https://woocommerce.github.io/woocommerce-rest-api-docs/?javascript#introduction" target="_blank">https://woocommerce.github.io/woocommerce-rest-api-docs/?javascript#introduction</a>
+
 ### GraphQL
 
 - Building Static Sites with WordPress and Next.js Series' Articles  
@@ -46,7 +50,7 @@ An example of an application on Next.js using headless Wordpress and GraphQL.
 - A statically generated blog example using Next.js and WordPress  
   <a href="https://github.com/vercel/next.js/tree/canary/examples/cms-wordpress" target="_blank">https://github.com/vercel/next.js/tree/canary/examples/cms-wordpress</a>
 
-- WPGraphQL WooCommerce (WooGraphQL)
+- WPGraphQL WooCommerce (WooGraphQL)  
   <a href="https://github.com/wp-graphql/wp-graphql-woocommerce" target="_blank">https://github.com/wp-graphql/wp-graphql-woocommerce</a>
 
 ## Video
