@@ -57,8 +57,11 @@ An example of an application on Next.js using headless Wordpress and GraphQL.
 
 ### REST API
 
-- REST API в WordPress  
+- REST API в WordPress (PHP)
   <a href="https://vimeo.com/238076700" target="_blank">https://vimeo.com/238076700</a>
+
+- WooCommerce and React | Next.js with WooCommerce | WooCommerce Store | WooCommerce REST API  
+   <a href="https://www.youtube.com/playlist?list=PLD8nQCAhR3tQ5GvL6zkPb-ASbvgTiCiUb" target="_blank">https://www.youtube.com/playlist?list=PLD8nQCAhR3tQ5GvL6zkPb-ASbvgTiCiUb</a>
 
 ### GraphQL
 
