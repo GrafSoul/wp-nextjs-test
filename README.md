@@ -94,13 +94,13 @@ An example of an application on Next.js using headless Wordpress and GraphQL.
 
 ### GSAP
 
-GSAP + React, First Steps & Handy Techniques  
+- GSAP + React, First Steps & Handy Techniques  
 <a href="https://greensock.com/react/" target="_blank">https://greensock.com/react/</a>
 
-Animating React Components With GreenSock  
+- Animating React Components With GreenSock  
 <a href="https://www.smashingmagazine.com/2020/09/animating-react-components-greensock/" target="_blank">https://www.smashingmagazine.com/2020/09/animating-react-components-greensock/</a>
 
-React: примеры использования GSAP  
+- React: примеры использования GSAP  
 <a href="https://habr.com/ru/company/timeweb/blog/590501/" target="_blank">https://habr.com/ru/company/timeweb/blog/590501/</a>
 
 ### Tree.js
@@ -128,7 +128,7 @@ React: примеры использования GSAP
 - React & Three.js | Working with Shaders using React Three Fiber  
   <a href="https://www.youtube.com/watch?v=kxXaIHi1j4w&ab_channel=WrongAkram" target="_blank">https://www.youtube.com/watch?v=kxXaIHi1j4w&ab_channel=WrongAkram</a>
 
-  - Build a 3D World in React with ThreeJS and React Three Fiber  
-    <a href="https://www.youtube.com/watch?v=9ZEjSxDRIik&ab_channel=CodingTech" target="_blank">https://www.youtube.com/watch?v=9ZEjSxDRIik&ab_channel=CodingTech</a>
+- Build a 3D World in React with ThreeJS and React Three Fiber  
+  <a href="https://www.youtube.com/watch?v=9ZEjSxDRIik&ab_channel=CodingTech" target="_blank">https://www.youtube.com/watch?v=9ZEjSxDRIik&ab_channel=CodingTech</a>
 
 © 2022
