@@ -95,13 +95,24 @@ An example of an application on Next.js using headless Wordpress and GraphQL.
 ### GSAP
 
 - GSAP + React, First Steps & Handy Techniques  
-<a href="https://greensock.com/react/" target="_blank">https://greensock.com/react/</a>
+  <a href="https://greensock.com/react/" target="_blank">https://greensock.com/react/</a>
 
 - Animating React Components With GreenSock  
-<a href="https://www.smashingmagazine.com/2020/09/animating-react-components-greensock/" target="_blank">https://www.smashingmagazine.com/2020/09/animating-react-components-greensock/</a>
+  <a href="https://www.smashingmagazine.com/2020/09/animating-react-components-greensock/" target="_blank">https://www.smashingmagazine.com/2020/09/animating-react-components-greensock/</a>
 
 - React: примеры использования GSAP  
-<a href="https://habr.com/ru/company/timeweb/blog/590501/" target="_blank">https://habr.com/ru/company/timeweb/blog/590501/</a>
+  <a href="https://habr.com/ru/company/timeweb/blog/590501/" target="_blank">https://habr.com/ru/company/timeweb/blog/590501/</a>
+
+#### Video
+
+- React & GSAP Tutorials   
+  <a href="https://www.youtube.com/playlist?list=PLgcPxVODYXGIT9iX0uHBUYQSyqGvafwHT" target="_blank">https://www.youtube.com/playlist?list=PLgcPxVODYXGIT9iX0uHBUYQSyqGvafwHT</a>
+
+- React and GreenSock 101   
+  <a href="https://www.youtube.com/playlist?list=PLkEZWD8wbltn-fdLYdB-oGEbvH5dEQdaG" target="_blank">https://www.youtube.com/playlist?list=PLkEZWD8wbltn-fdLYdB-oGEbvH5dEQdaG</a>
+
+- React.js and GSAP   
+  <a href="https://www.youtube.com/playlist?list=PLqbkf7Bymwxttbx7Asm0p7_Qk2oXPjm1A" target="_blank">https://www.youtube.com/playlist?list=PLqbkf7Bymwxttbx7Asm0p7_Qk2oXPjm1A</a>
 
 ### Tree.js
 
@@ -120,7 +131,7 @@ An example of an application on Next.js using headless Wordpress and GraphQL.
 - React-three-fiber is a React renderer for three.js  
   <a href="https://docs.pmnd.rs/react-three-fiber/getting-started/introduction" target="_blank">https://docs.pmnd.rs/react-three-fiber/getting-started/introduction</a>
 
-### Video
+#### Video
 
 - Three.js 3D Elements for your website using ReactJS  
   <a href="https://www.youtube.com/watch?v=wxvSHOrBHbw&ab_channel=DesignCode" target="_blank">https://www.youtube.com/watch?v=wxvSHOrBHbw&ab_channel=DesignCode</a>
