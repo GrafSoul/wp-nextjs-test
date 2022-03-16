@@ -90,4 +90,45 @@ An example of an application on Next.js using headless Wordpress and GraphQL.
 - WordPress as a Headless Content Management System (CMS) and GraphQL API  
   <a href="https://egghead.io/courses/headless-wordpress-4a14" target="_blank">https://egghead.io/courses/headless-wordpress-4a14</a>
 
+## Animation
+
+### GSAP
+
+GSAP + React, First Steps & Handy Techniques  
+<a href="https://greensock.com/react/" target="_blank">https://greensock.com/react/</a>
+
+Animating React Components With GreenSock  
+<a href="https://www.smashingmagazine.com/2020/09/animating-react-components-greensock/" target="_blank">https://www.smashingmagazine.com/2020/09/animating-react-components-greensock/</a>
+
+React: примеры использования GSAP  
+<a href="https://habr.com/ru/company/timeweb/blog/590501/" target="_blank">https://habr.com/ru/company/timeweb/blog/590501/</a>
+
+### Tree.js
+
+- Код в движении: 5 лучших библиотек для анимации в React-приложениях  
+  <a href="https://highload.today/kod-v-dvizhenii-5-luchshih-bibliotek-dlya-animatsii-v-react-prilozheniyah/" target="_blank">https://highload.today/kod-v-dvizhenii-5-luchshih-bibliotek-dlya-animatsii-v-react-prilozheniyah/</a>
+
+- react-three-fiber library  
+  <a href="https://github.com/pmndrs/react-three-fiber" target="_blank">https://github.com/pmndrs/react-three-fiber</a>
+
+- 2d-графика в React с three.js  
+  <a href="https://habr.com/ru/company/simbirsoft/blog/560980/" target="_blank">https://habr.com/ru/company/simbirsoft/blog/560980/</a>
+
+- Starting with React 16 and Three.js in 5 minutes  
+  <a href="https://blog.bitsrc.io/starting-with-react-16-and-three-js-in-5-minutes-3079b8829817" target="_blank">https://blog.bitsrc.io/starting-with-react-16-and-three-js-in-5-minutes-3079b8829817</a>
+
+- React-three-fiber is a React renderer for three.js  
+  <a href="https://docs.pmnd.rs/react-three-fiber/getting-started/introduction" target="_blank">https://docs.pmnd.rs/react-three-fiber/getting-started/introduction</a>
+
+### Video
+
+- Three.js 3D Elements for your website using ReactJS  
+  <a href="https://www.youtube.com/watch?v=wxvSHOrBHbw&ab_channel=DesignCode" target="_blank">https://www.youtube.com/watch?v=wxvSHOrBHbw&ab_channel=DesignCode</a>
+
+- React & Three.js | Working with Shaders using React Three Fiber  
+  <a href="https://www.youtube.com/watch?v=kxXaIHi1j4w&ab_channel=WrongAkram" target="_blank">https://www.youtube.com/watch?v=kxXaIHi1j4w&ab_channel=WrongAkram</a>
+
+  - Build a 3D World in React with ThreeJS and React Three Fiber  
+    <a href="https://www.youtube.com/watch?v=9ZEjSxDRIik&ab_channel=CodingTech" target="_blank">https://www.youtube.com/watch?v=9ZEjSxDRIik&ab_channel=CodingTech</a>
+
 © 2022
