@@ -1,6 +1,7 @@
 import Head from "next/head";
 import { useState } from "react";
 import { useRouter } from "next/router";
+import Link from "next/link";
 
 import styles from "../../styles/Home.module.css";
 
@@ -36,7 +37,29 @@ const Contact = ({ menuItems }) => {
       </Head>
       <main className={styles.main}>
         <h1 className={styles.title}>Contact us</h1>
-        <hr />
+
+        <ul>
+          <li>
+            <Link href="/">
+              <a>Home</a>
+            </Link>
+          </li>
+          <li>
+            <Link href="/blog">
+              <a>Blog</a>
+            </Link>
+          </li>
+          <li>
+            <Link href="/animate">
+              <a>Animate</a>
+            </Link>
+          </li>
+          <li>
+            <Link href="/contact">
+              <a>Contact</a>
+            </Link>
+          </li>
+        </ul>
 
         <form onSubmit={handleSubmit}>
           <div>

@@ -31,6 +31,11 @@ export default function Home() {
               </Link>
             </li>
             <li>
+              <Link href="/animate">
+                <a>Animate</a>
+              </Link>
+            </li>
+            <li>
               <Link href="/contact">
                 <a>Contact</a>
               </Link>
