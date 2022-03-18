@@ -1,6 +1,6 @@
 # Nextjs + WordPress + REST API + GraphQL API
 
-An example of an application on Next.js using headless Wordpress and GraphQL.
+An example of an application on Next.js using headless Wordpress and using REST API and GraphQL. So contains an example of using the GSAP library to animate elements on site pages.
 
 ## Documentation
 
@@ -105,13 +105,13 @@ An example of an application on Next.js using headless Wordpress and GraphQL.
 
 #### Video
 
-- React & GSAP Tutorials   
+- React & GSAP Tutorials  
   <a href="https://www.youtube.com/playlist?list=PLgcPxVODYXGIT9iX0uHBUYQSyqGvafwHT" target="_blank">https://www.youtube.com/playlist?list=PLgcPxVODYXGIT9iX0uHBUYQSyqGvafwHT</a>
 
-- React and GreenSock 101   
+- React and GreenSock 101  
   <a href="https://www.youtube.com/playlist?list=PLkEZWD8wbltn-fdLYdB-oGEbvH5dEQdaG" target="_blank">https://www.youtube.com/playlist?list=PLkEZWD8wbltn-fdLYdB-oGEbvH5dEQdaG</a>
 
-- React.js and GSAP   
+- React.js and GSAP  
   <a href="https://www.youtube.com/playlist?list=PLqbkf7Bymwxttbx7Asm0p7_Qk2oXPjm1A" target="_blank">https://www.youtube.com/playlist?list=PLqbkf7Bymwxttbx7Asm0p7_Qk2oXPjm1A</a>
 
 ### Tree.js
